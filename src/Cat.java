@@ -18,11 +18,11 @@ public class Cat {
         }
 
         void pee() {
-        weight -= 20;
+        weight -= 10;
         }
 
         void eat() {
-        weight += 50;
+        weight += 40;
         }
 
     public double getWeight() {
